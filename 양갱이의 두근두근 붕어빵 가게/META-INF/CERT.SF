@@ -1,0 +1,770 @@
+Signature-Version: 1.0
+Created-By: 1.0 (Android)
+SHA1-Digest-Manifest: Y9In2wrAAjsBxJ39pvXUMBuFIj4=
+X-Android-APK-Signed: 2
+
+Name: AndroidManifest.xml
+SHA1-Digest: XoTjhNw9PrcWcm9+izm66YXR6tQ=
+
+Name: androidsupportmultidexversion.txt
+SHA1-Digest: Db3nZ/ZaRF3v2l511p417+Q6Jo8=
+
+Name: assets/_corona_live_build_exclude.txt
+SHA1-Digest: 1uEh83n1OTI43DKByR1h5L8/fVk=
+
+Name: assets/_corona_live_build_manifest.txt
+SHA1-Digest: Gc8lah6aIJY+63QnJHT7j2QbcNg=
+
+Name: assets/corona_live_build_app_/build.settings
+SHA1-Digest: enfe/LPCorclmUqsgDEe0JmuG/c=
+
+Name: assets/corona_live_build_app_/config.lua
+SHA1-Digest: zanBups55+PGJp/jcw4depeam9g=
+
+Name: assets/corona_live_build_app_/content/bgm/1_시작화면.mp3
+SHA1-Digest: jhwjImsQDozlGmvB8UKahndt4i8=
+
+Name: assets/corona_live_build_app_/content/bgm/2_가게.mp3
+SHA1-Digest: kHFW+AgjF46tGmzQ9iPfTj0B5T4=
+
+Name: assets/corona_live_build_app_/content/bgm/3_낚시.mp3
+SHA1-Digest: 2NsPRS1AMYptbvGP/SygGmZkuLs=
+
+Name: assets/corona_live_build_app_/content/bgm/4_설정.mp3
+SHA1-Digest: tsqK/bWfTwfXJYGY43gvbyH4Ph8=
+
+Name: assets/corona_live_build_app_/content/bgm/5_상점.mp3
+SHA1-Digest: aqzl0dGUse8R72521ZycrNPDUcI=
+
+Name: assets/corona_live_build_app_/content/bgm/6_해피.mp3
+SHA1-Digest: WIep+UL8PgHDctaxyUkbyaTZnl0=
+
+Name: assets/corona_live_build_app_/content/bgm/7_새드.mp3
+SHA1-Digest: Cc4V2pn8y/vgj3vkoCwyugFLd9A=
+
+Name: assets/corona_live_build_app_/content/cartoon/bed1.png
+SHA1-Digest: HPFP3QLxJDbo3NTDYfTFHlqg7wg=
+
+Name: assets/corona_live_build_app_/content/cartoon/bed2.png
+SHA1-Digest: Twlle68VterbaYoPVpkIAh1I+XE=
+
+Name: assets/corona_live_build_app_/content/cartoon/bed3.png
+SHA1-Digest: +Zq1hc7h2ygi9IGdjUrul1e4PTg=
+
+Name: assets/corona_live_build_app_/content/cartoon/bed4.png
+SHA1-Digest: DIfS8HDAmD6UfCfkf9zygZ3x9kc=
+
+Name: assets/corona_live_build_app_/content/cartoon/goodback.png
+SHA1-Digest: cE2a6IRvv8R5LRuVgfdg0AhKlGE=
+
+Name: assets/corona_live_build_app_/content/cartoon/happy1.png
+SHA1-Digest: fHBxZXCG4W1aB1//JEW2V6W41E4=
+
+Name: assets/corona_live_build_app_/content/cartoon/happy2.png
+SHA1-Digest: wKO5baHFl3N+SZXEc8UAad4LBjg=
+
+Name: assets/corona_live_build_app_/content/cartoon/happy3.png
+SHA1-Digest: y0qoKasbkRHiuGdCGX+Zs7KbSV0=
+
+Name: assets/corona_live_build_app_/content/cartoon/happy4.png
+SHA1-Digest: Z4T6W7/go1PqoEOlG7SMoVSgJPM=
+
+Name: assets/corona_live_build_app_/content/cartoon/opening1.png
+SHA1-Digest: zZ2ZL5Yio4XtzhRk2uy9ohDKAqc=
+
+Name: assets/corona_live_build_app_/content/cartoon/replay.png
+SHA1-Digest: X/HltZEE0F7XbxlyX/XXSCxeUak=
+
+Name: assets/corona_live_build_app_/content/cartoon/replaybutton.png
+SHA1-Digest: YfYK+GrINvWcSMN5esFSPwmDzjg=
+
+Name: assets/corona_live_build_app_/content/cartoon/sadback.png
+SHA1-Digest: nQQkJ9an179vRErONhaP69cvse4=
+
+Name: assets/corona_live_build_app_/content/font/Maplestory Bold.ttf
+SHA1-Digest: JSkSLotgNpmup1QDDbGSCZ+zeKk=
+
+Name: assets/corona_live_build_app_/content/font/Maplestory Light.ttf
+SHA1-Digest: o3C854AQ9cGmgP7XlhUHmNFgkyw=
+
+Name: assets/corona_live_build_app_/content/sound.xml
+SHA1-Digest: kVIoHQXptLyAfTbHnlrbbi7zYrI=
+
+Name: assets/corona_live_build_app_/content/sound/01_달.mp3
+SHA1-Digest: vmmCSbKnNEByQw87iah2mMcGdi0=
+
+Name: assets/corona_live_build_app_/content/sound/02_깍.mp3
+SHA1-Digest: smNPVIoABknzCm6kgl7EsYJlYdI=
+
+Name: assets/corona_live_build_app_/content/sound/03_달깍.mp3
+SHA1-Digest: 08LvdsQqvcpotEkAXYe+YM09qEM=
+
+Name: assets/corona_live_build_app_/content/sound/04_끌기.mp3
+SHA1-Digest: Hb91jJTkJmTIIfVKBfuVJdrb35E=
+
+Name: assets/corona_live_build_app_/content/sound/05_동전.mp3
+SHA1-Digest: yb5PS6+FMJLywIsQdd+caACv2Ro=
+
+Name: assets/corona_live_build_app_/content/sound/06_딩동.mp3
+SHA1-Digest: 7o+CDTN5oW8fBDHEu5dgyjs1aQ0=
+
+Name: assets/corona_live_build_app_/content/sound/07_또롱.mp3
+SHA1-Digest: PeOQEZXfGksdrcdVEZ0yIqJ8vZM=
+
+Name: assets/corona_live_build_app_/content/sound/08_시간임박.mp3
+SHA1-Digest: IF2xlPZmFul8wkPRhto3LT4eZws=
+
+Name: assets/corona_live_build_app_/content/sound/09_획득.mp3
+SHA1-Digest: Rj0Sp6Wt4Z7mWhrUBUdghdPkE+0=
+
+Name: assets/corona_live_build_app_/content/sound/10_휘슬.mp3
+SHA1-Digest: xxhUeyOcDVSnAjSsmSCejzfUdB0=
+
+Name: assets/corona_live_build_app_/content/sound/11_떡밥구매.mp3
+SHA1-Digest: tlxcc3EbxKaye5FPeY7XgoRg4Lc=
+
+Name: assets/corona_live_build_app_/content/sound/12_탭.mp3
+SHA1-Digest: yLKSjFDLleI/qYIT/KtUa3+id28=
+
+Name: assets/corona_live_build_app_/content/sound/13_탐.mp3
+SHA1-Digest: kMonYv/0/htJJmGdWlQoI6jhr6c=
+
+Name: assets/corona_live_build_app_/content/sound/14_실패.mp3
+SHA1-Digest: ZUqpIru8r5pNrtjbdqliBIsrxjM=
+
+Name: assets/corona_live_build_app_/content/story.xml
+SHA1-Digest: zqfYagyU0kB0YYuldQ7ABsMXxgc=
+
+Name: assets/corona_live_build_app_/endingCradit.lua
+SHA1-Digest: Xibqu+hKYvkuhT50i7G513ze1Cc=
+
+Name: assets/corona_live_build_app_/fishing.lua
+SHA1-Digest: jdlkA0RwJMPDguPEFG1wiWPWSCM=
+
+Name: assets/corona_live_build_app_/fishing_setting.lua
+SHA1-Digest: ixCIPT23ugT4wO8lr79ampjIthQ=
+
+Name: assets/corona_live_build_app_/howto.lua
+SHA1-Digest: /gkvC+9lgjTUsg5zFYD1UWz/4C8=
+
+Name: assets/corona_live_build_app_/icon/back.png
+SHA1-Digest: +XWjczLYsXJjdTIBGZbWN5yvPZA=
+
+Name: assets/corona_live_build_app_/icon/back2.png
+SHA1-Digest: tI3Dmn3k26gyw3I32vbPOE6+Lxg=
+
+Name: assets/corona_live_build_app_/icon/backDown.png
+SHA1-Digest: 9MVuuF1IxRTKTfLTjImVZKI44fQ=
+
+Name: assets/corona_live_build_app_/icon/background_cream.png
+SHA1-Digest: v76yWgCUDld2aOZXPh5p3sPod8Q=
+
+Name: assets/corona_live_build_app_/icon/backgrounddough.png
+SHA1-Digest: kdGQTJx6kRtbbDo5L/w6oqaGrR4=
+
+Name: assets/corona_live_build_app_/icon/backgroundfishing.png
+SHA1-Digest: 7j2rSD0VW7X3OzW4E8OFAXwQv9k=
+
+Name: assets/corona_live_build_app_/icon/backgroundmarket.png
+SHA1-Digest: pMPSCFQ575NIxsq9+MzjrmYyDAQ=
+
+Name: assets/corona_live_build_app_/icon/backgroundredbeen.png
+SHA1-Digest: rAzFMyvv+q3oFmQRoICxffjL8Lw=
+
+Name: assets/corona_live_build_app_/icon/backgroundstick.png
+SHA1-Digest: 5QLqdt/XZ3uhHOINvd4qzMcAA/I=
+
+Name: assets/corona_live_build_app_/icon/balloon.png
+SHA1-Digest: xqgeglRL1dPd8B8WD9IydJw1ksc=
+
+Name: assets/corona_live_build_app_/icon/banzook.png
+SHA1-Digest: kV1bJ26ViJrsiILD3PvB7Iw1DM4=
+
+Name: assets/corona_live_build_app_/icon/bg.png
+SHA1-Digest: i1TaHqKHGurTMahpfk1+CIYFMe0=
+
+Name: assets/corona_live_build_app_/icon/bg_0
+SHA1-Digest: uwrOekbr00MgModJd442w++wIxs=
+
+Name: assets/corona_live_build_app_/icon/boong.png
+SHA1-Digest: O+AEAF9RGjJ+jAYKG6c/03g8v2E=
+
+Name: assets/corona_live_build_app_/icon/boong2.png
+SHA1-Digest: Rogu0xI3oqq5Uhd9cFhe1+RYNq0=
+
+Name: assets/corona_live_build_app_/icon/button.png
+SHA1-Digest: BInkMxJgE+EfCfBTcObpNPAEoMA=
+
+Name: assets/corona_live_build_app_/icon/button2.png
+SHA1-Digest: KfWJSqncRfoDr7gpVxd0Z7qo+Zw=
+
+Name: assets/corona_live_build_app_/icon/buttonDown.png
+SHA1-Digest: JHBo9Z5mnbnz0LEGMQMrGxYx/XI=
+
+Name: assets/corona_live_build_app_/icon/buttonDown2.png
+SHA1-Digest: LSj5p/qIXHGKb8iNh07I8PUolzc=
+
+Name: assets/corona_live_build_app_/icon/cats2.png
+SHA1-Digest: riLNTJqSwgkBjSaOCJOnE5G9OEs=
+
+Name: assets/corona_live_build_app_/icon/cats2_happy.png
+SHA1-Digest: L+K61xuv62bUN1m73QV2B00TRY4=
+
+Name: assets/corona_live_build_app_/icon/cats3.png
+SHA1-Digest: +6/5doXviMvs+oPPezUnB+nymTw=
+
+Name: assets/corona_live_build_app_/icon/cream.png
+SHA1-Digest: 5jN4BsZv0ilRzsgrbcf867FRoLk=
+
+Name: assets/corona_live_build_app_/icon/cream2.png
+SHA1-Digest: OdXyYleHdR6OBQdDTRYmBUwatjg=
+
+Name: assets/corona_live_build_app_/icon/creamIcon.png
+SHA1-Digest: 5ka2v1/pzj01q2f6+LTQ8ptvpfk=
+
+Name: assets/corona_live_build_app_/icon/custom1.png
+SHA1-Digest: eZyaYNbbLvgjIjXf+HjLaC9+js4=
+
+Name: assets/corona_live_build_app_/icon/custom2.png
+SHA1-Digest: 6/eko5FKz6oCqZ5zhG+twJzBxPU=
+
+Name: assets/corona_live_build_app_/icon/custom3.png
+SHA1-Digest: wFlqI4mxx2IZNV8sLFy9lz29CJ8=
+
+Name: assets/corona_live_build_app_/icon/custom4.png
+SHA1-Digest: OGtEG3yvW0abhc860nTK7eq9ZJk=
+
+Name: assets/corona_live_build_app_/icon/ddukbab.png
+SHA1-Digest: a+Jdqb+pDohCBKHgSedIcjFWvjM=
+
+Name: assets/corona_live_build_app_/icon/ddukbab_cream.png
+SHA1-Digest: ZIcSNPEnSgr22bqt/H1FZf2FGEg=
+
+Name: assets/corona_live_build_app_/icon/ddukbab_redbean.png
+SHA1-Digest: 4nM/F6gzc/UJ2n7IqM75pI83pUI=
+
+Name: assets/corona_live_build_app_/icon/deadfish.png
+SHA1-Digest: iScLPuKud8u7BZfZSDNdAgjXBmw=
+
+Name: assets/corona_live_build_app_/icon/dough.png
+SHA1-Digest: XW4IZKykLeHNGUb600ThpyQCoC8=
+
+Name: assets/corona_live_build_app_/icon/doughIcon.png
+SHA1-Digest: f+N/B/c0UkfFFSrJL3SOihot/Iw=
+
+Name: assets/corona_live_build_app_/icon/doughfish.png
+SHA1-Digest: USBUBTRkBdF9NJsPBSM/ZTbgFqg=
+
+Name: assets/corona_live_build_app_/icon/first.png
+SHA1-Digest: H9qakN/dwZAMw0KXZp3QM4Y1Rfw=
+
+Name: assets/corona_live_build_app_/icon/fish.png
+SHA1-Digest: sWlnoqPXCR7+lvS7d+AfMpugNTs=
+
+Name: assets/corona_live_build_app_/icon/fish_opa0.png
+SHA1-Digest: ascByXjUtW35LgCgF3rJvOU6Oco=
+
+Name: assets/corona_live_build_app_/icon/galgori.png
+SHA1-Digest: 5iXidVZOoxTPUkwhVjF4PyIPqOE=
+
+Name: assets/corona_live_build_app_/icon/gofishing.png
+SHA1-Digest: dZnFtYg9W+xAbWSOBVhlwtFqS9I=
+
+Name: assets/corona_live_build_app_/icon/gosetting.png
+SHA1-Digest: jB2jEmY1L7TIlzAITcG/QxYXG6o=
+
+Name: assets/corona_live_build_app_/icon/gostore.png
+SHA1-Digest: Y77Jb6jTDZDA454IEQOZ5gmr2EI=
+
+Name: assets/corona_live_build_app_/icon/grayfish.png
+SHA1-Digest: pqw2tawT5xo7DVl40WLPrbN5ptI=
+
+Name: assets/corona_live_build_app_/icon/grayfish2.png
+SHA1-Digest: OqjmMmUsXLuWwuOKTfdY7QlaZrc=
+
+Name: assets/corona_live_build_app_/icon/howto.png
+SHA1-Digest: rr4FZMlh+6vwp6MwlWtUgSBxI/Q=
+
+Name: assets/corona_live_build_app_/icon/opencream.png
+SHA1-Digest: rXkv+H9o3Iohhh3ABqS1ElUWKB8=
+
+Name: assets/corona_live_build_app_/icon/opendduck.png
+SHA1-Digest: orw23B8xHJXy9WyydggUi3TrXYk=
+
+Name: assets/corona_live_build_app_/icon/openred.png
+SHA1-Digest: QGpiwcK/cbJw3mW4wUURHUnk/p8=
+
+Name: assets/corona_live_build_app_/icon/pan.png
+SHA1-Digest: OH7S0uXWCYj7wvybT9ffHuQ7BN0=
+
+Name: assets/corona_live_build_app_/icon/pan_bg.png
+SHA1-Digest: TYrdSKmZokSB4xyn54ebI6g4mAw=
+
+Name: assets/corona_live_build_app_/icon/patboong.png
+SHA1-Digest: J1UTikUO6aYeDauiJOx/Kuc0tYM=
+
+Name: assets/corona_live_build_app_/icon/patboong2.png
+SHA1-Digest: k/GMyX6roo4bCPlxjQ0lnXfCtC8=
+
+Name: assets/corona_live_build_app_/icon/pond.png
+SHA1-Digest: Yt6c/11WgSw+AmZQgwUcvwo3AJA=
+
+Name: assets/corona_live_build_app_/icon/qweqwe.png
+SHA1-Digest: FltA58ayMurFbZCkthkJPlTjFWs=
+
+Name: assets/corona_live_build_app_/icon/rarefish.png
+SHA1-Digest: KImIrn6B0dCIwmphGv62s/cjdos=
+
+Name: assets/corona_live_build_app_/icon/redbean.png
+SHA1-Digest: 8busbLYlX/1MQ7v73j3pX0qOas0=
+
+Name: assets/corona_live_build_app_/icon/redbean2.png
+SHA1-Digest: zF/Y7O6H8XyerAgL9inw7L+m4f0=
+
+Name: assets/corona_live_build_app_/icon/redbeanIcon.png
+SHA1-Digest: wLaPp8A0c23Ftipvz66BNBYu4yA=
+
+Name: assets/corona_live_build_app_/icon/rightfish.png
+SHA1-Digest: T55HSSQ7u3HC6ZgQeQHL3VVn9kU=
+
+Name: assets/corona_live_build_app_/icon/sale.png
+SHA1-Digest: 1o5hSvtrw61l2a3JduYRSe3fuuw=
+
+Name: assets/corona_live_build_app_/icon/settingback.png
+SHA1-Digest: cSqFxSCZMGnxH1PSFu1hYiUJi78=
+
+Name: assets/corona_live_build_app_/icon/stand.png
+SHA1-Digest: xdN33Bi1PA8+V4FNq0MKLDL0LFM=
+
+Name: assets/corona_live_build_app_/icon/stand2.png
+SHA1-Digest: FgKr1CPTrC67wZdD/BqBgW/TIw8=
+
+Name: assets/corona_live_build_app_/icon/start.png
+SHA1-Digest: twAOYY7ZBMEpuxemyz4MoCZuwtc=
+
+Name: assets/corona_live_build_app_/icon/stick.png
+SHA1-Digest: QwAZ6GmCHpwx7hO39i6ykP2Na+o=
+
+Name: assets/corona_live_build_app_/icon/stickIcon.png
+SHA1-Digest: 4TpfrlKpfXFVgWhcyvXOjbeEeHo=
+
+Name: assets/corona_live_build_app_/icon/syuboong.png
+SHA1-Digest: EymvgBbkOpY94keqFNXYCxnYAnc=
+
+Name: assets/corona_live_build_app_/icon/syuboong2.png
+SHA1-Digest: XHPW/kXInKzMo/uuTp5EC25XpdY=
+
+Name: assets/corona_live_build_app_/icon/think_first.png
+SHA1-Digest: SHI74EHmxk6v0TvY9z8sierufA0=
+
+Name: assets/corona_live_build_app_/icon/think_fishing.png
+SHA1-Digest: NJL7Flrv1+NjA571UdGFElZjxMI=
+
+Name: assets/corona_live_build_app_/icon/think_fishinghappy.png
+SHA1-Digest: 5GDCFMzpR7z53chIAj+cRSSsaew=
+
+Name: assets/corona_live_build_app_/icon/think_play.png
+SHA1-Digest: v5H2N85fSb/OQGvD30sErNTPty4=
+
+Name: assets/corona_live_build_app_/icon/timeBar_bg.png
+SHA1-Digest: DzXhFVMcuRHUz7oovPJ9MSPboiM=
+
+Name: assets/corona_live_build_app_/icon/timeBar_bg2.png
+SHA1-Digest: 9Z4Ztr48wAEZmhtmGJaMl57YoBM=
+
+Name: assets/corona_live_build_app_/icon/trash.png
+SHA1-Digest: PhlWlM5sukC/uDsFGvrEBgzuEjk=
+
+Name: assets/corona_live_build_app_/icon/처음구상.png
+SHA1-Digest: vvPa5KkbWLFnzOa/UPoHPZixHmw=
+
+Name: assets/corona_live_build_app_/images/background.png
+SHA1-Digest: hXE4WbihkHMddeIytZY+tTlwHFs=
+
+Name: assets/corona_live_build_app_/images/handle.png
+SHA1-Digest: T2oGPQPJEHdmvo0GaG09HJfuc2k=
+
+Name: assets/corona_live_build_app_/images/handle@2x.png
+SHA1-Digest: Bh3H5uguvpschbdBoONTHy7sRdY=
+
+Name: assets/corona_live_build_app_/images/sliderBg.png
+SHA1-Digest: PQ2fIvXb5JMocT2z81BCEITka6E=
+
+Name: assets/corona_live_build_app_/images/sliderBg@2x.png
+SHA1-Digest: 5uk9bfyKIgpm01SBJBHXVOKGqkk=
+
+Name: assets/corona_live_build_app_/images/sliderFill.png
+SHA1-Digest: tzgl4W8jm1rznS7LSqRp0y8PpKM=
+
+Name: assets/corona_live_build_app_/images/sliderFill@2x.png
+SHA1-Digest: rSqUDukiLVTqVpvhyD6D069NPHs=
+
+Name: assets/corona_live_build_app_/main.lua
+SHA1-Digest: 829vr/IXIDdSlPzqxlHNZ79uuaU=
+
+Name: assets/corona_live_build_app_/mainGame.lua
+SHA1-Digest: Xfc0NA3nBKsOH9kq9TQyn2atmFk=
+
+Name: assets/corona_live_build_app_/replay.lua
+SHA1-Digest: v/OStMen8yJz74YvlLBregtg86Q=
+
+Name: assets/corona_live_build_app_/setting.lua
+SHA1-Digest: yLDAcxjuIrKjF0qQmtL2deeC/PU=
+
+Name: assets/corona_live_build_app_/shop.lua
+SHA1-Digest: l3fCRwUiCnsPsRu8SqTM98aZmWo=
+
+Name: assets/corona_live_build_app_/start.lua
+SHA1-Digest: wKcV+qHrhd2eSrXVIvwamqgi+AM=
+
+Name: assets/corona_live_build_app_/story.lua
+SHA1-Digest: l+AEEo9ux2VLsNtotJKEymkQXRI=
+
+Name: assets/corona_live_build_app_/xml.lua
+SHA1-Digest: ylObozN0n3zDPQWZWJQc8CEBUkk=
+
+Name: assets/resource.car
+SHA1-Digest: 8a8mJT8RCLWUIZ7Z1tr1T5kUgJw=
+
+Name: classes.dex
+SHA1-Digest: HjPi39HD37Qd/FNV21YIjqMYAn4=
+
+Name: lib/arm64-v8a/libads.so
+SHA1-Digest: NQUAgjZLjf0tj3KIRBnj6KUFR8Q=
+
+Name: lib/arm64-v8a/libalmixer.so
+SHA1-Digest: E9hAErTjwpG0tmpc5e70CzLaC2g=
+
+Name: lib/arm64-v8a/libanalytics.so
+SHA1-Digest: /FOaknpB07QTG2OLm5FH8VQtIcI=
+
+Name: lib/arm64-v8a/libcorona.so
+SHA1-Digest: 2Ml1YMZ8RWIdMCF2LN1W6O51v2o=
+
+Name: lib/arm64-v8a/libgameNetwork.so
+SHA1-Digest: 17ZnXp3Yr7ccj+mUoWQ6LL6AvV8=
+
+Name: lib/arm64-v8a/libjnlua5.1.so
+SHA1-Digest: uYsmqLKlX3D7eQFh7qGlOwUcfDI=
+
+Name: lib/arm64-v8a/liblicensing.so
+SHA1-Digest: qphdnBdNkVyO176WfM3Xh9S2wps=
+
+Name: lib/arm64-v8a/liblua.so
+SHA1-Digest: IcE1FZtA4rAZ/dql/a2cOGG3l8s=
+
+Name: lib/arm64-v8a/libmpg123.so
+SHA1-Digest: 2j2QqCwn9GWOxgURr+0njMYDZAs=
+
+Name: lib/arm64-v8a/libopenal.so
+SHA1-Digest: ouq4Plwihn+m2UeUkUyLfiGPeVg=
+
+Name: lib/armeabi-v7a/libads.so
+SHA1-Digest: 8uKGL4nUODKeeI42ZTHxaKDF4lI=
+
+Name: lib/armeabi-v7a/libalmixer.so
+SHA1-Digest: /L/zCep91viLsLmtCLt5pgBx+Ak=
+
+Name: lib/armeabi-v7a/libanalytics.so
+SHA1-Digest: B+DWynFooG32DY11iM9R2CFUEeI=
+
+Name: lib/armeabi-v7a/libcorona.so
+SHA1-Digest: EZ1mddkZBuyqMym0FG23/XvKSfg=
+
+Name: lib/armeabi-v7a/libgameNetwork.so
+SHA1-Digest: 2dZsexBs7/og4f9HS13mkFe/y14=
+
+Name: lib/armeabi-v7a/libjnlua5.1.so
+SHA1-Digest: C0apaaR5qVBMbr4lo0esaHYXeeE=
+
+Name: lib/armeabi-v7a/liblicensing.so
+SHA1-Digest: 686VabNEOhlTfyI5M5hMGVdzAhw=
+
+Name: lib/armeabi-v7a/liblua.so
+SHA1-Digest: Q+Ap2Rb3PqWgdwHKXOzLc++ipao=
+
+Name: lib/armeabi-v7a/libmpg123.so
+SHA1-Digest: esRuB+li9bOwSGr+ArBhtEM8VTw=
+
+Name: lib/armeabi-v7a/libopenal.so
+SHA1-Digest: y+BzLDvPrTrbiLr6EA8xk+20nfE=
+
+Name: lib/x86/libads.so
+SHA1-Digest: sGbMCsUcoK9MqUYjBuxjeima8lM=
+
+Name: lib/x86/libalmixer.so
+SHA1-Digest: Q3UFjeQIVFyIhNywdDNcQF+a2rk=
+
+Name: lib/x86/libanalytics.so
+SHA1-Digest: p3d9ljwk5T/2nZJTq/ih/6ffatM=
+
+Name: lib/x86/libcorona.so
+SHA1-Digest: oQhx5CUhYNYvcyB8FPUH9U5wXO8=
+
+Name: lib/x86/libgameNetwork.so
+SHA1-Digest: BWUqfcr2l6y7pvraNT7Cr/Y7rXg=
+
+Name: lib/x86/libjnlua5.1.so
+SHA1-Digest: tcm3eNtJZreG6lgRjJh0K/Bjcrg=
+
+Name: lib/x86/liblicensing.so
+SHA1-Digest: QNZf6wLOBs0EELMp+yvNVJBw64o=
+
+Name: lib/x86/liblua.so
+SHA1-Digest: 96amA38dywkxBFd9lyIKrIK+nC8=
+
+Name: lib/x86/libmpg123.so
+SHA1-Digest: +73NMMtQWQ0tdXTusyv//8PeIw4=
+
+Name: lib/x86/libopenal.so
+SHA1-Digest: zcV8MtxdKclT9cu3CqkcZgUOi58=
+
+Name: lib/x86_64/libads.so
+SHA1-Digest: 9wj2CmVEx3cJArKNS16TIXcNkSo=
+
+Name: lib/x86_64/libalmixer.so
+SHA1-Digest: XnDmc12ipCTsyANBKA9efmZVVa8=
+
+Name: lib/x86_64/libanalytics.so
+SHA1-Digest: PmohFVJkIPvs5sPBSEbjpEeHAXU=
+
+Name: lib/x86_64/libcorona.so
+SHA1-Digest: qiJwhxnW5MH+9OWxT+jcqoEBC2s=
+
+Name: lib/x86_64/libgameNetwork.so
+SHA1-Digest: I/vdzVIfLB2JuosjTlL/nxTawIs=
+
+Name: lib/x86_64/libjnlua5.1.so
+SHA1-Digest: vJT0bkCvFgcFXO+kJ5SHVqeUCZA=
+
+Name: lib/x86_64/liblicensing.so
+SHA1-Digest: wqfPxL5zWGXpcBfhHteriYjtwVk=
+
+Name: lib/x86_64/liblua.so
+SHA1-Digest: 3HOvYy+TM0PhGzTvk+FyQni3mc0=
+
+Name: lib/x86_64/libmpg123.so
+SHA1-Digest: Wr7dsaTG41EpOREHaFvF5qIjO/U=
+
+Name: lib/x86_64/libopenal.so
+SHA1-Digest: B0j32si+5SCFywtKeqBW0p3y4JM=
+
+Name: res/drawable-hdpi-v4/corona_statusbar_icon_default.png
+SHA1-Digest: +JL9c+K21igwW/yY0H6GW1cs7G0=
+
+Name: res/drawable-hdpi-v4/ic_maps_indicator_current_position.png
+SHA1-Digest: 4d4A9vGjMctun+MmFpx3tn5lN3I=
+
+Name: res/drawable-hdpi-v4/ic_maps_indicator_current_position_anim1.pn
+ g
+SHA1-Digest: lIPc2Y+dncAPoWBXRI4Szb+oHFs=
+
+Name: res/drawable-hdpi-v4/ic_maps_indicator_current_position_anim2.pn
+ g
+SHA1-Digest: G/CDLCrKSlQoH3nZ7lkMDkmXMN4=
+
+Name: res/drawable-hdpi-v4/ic_maps_indicator_current_position_anim3.pn
+ g
+SHA1-Digest: 0x6SkzBa+/x/Cqfb7CngYtD/Ua4=
+
+Name: res/drawable-hdpi-v4/ic_menu_camera.png
+SHA1-Digest: xLtgN5VreWDn87fmpAipcWoRpNA=
+
+Name: res/drawable-hdpi-v4/ic_menu_refresh.png
+SHA1-Digest: dJ4sZmE0q5yNZGQOQb70XHM+R8A=
+
+Name: res/drawable-ldpi-v4/corona_statusbar_icon_default.png
+SHA1-Digest: Ch6kLDUTinUmbl0CqoZ1SsD6d08=
+
+Name: res/drawable-ldpi-v4/ic_maps_indicator_current_position.png
+SHA1-Digest: e5u58OR5+0aoqOhlpnZB1JLsYZc=
+
+Name: res/drawable-ldpi-v4/ic_maps_indicator_current_position_anim1.pn
+ g
+SHA1-Digest: UQwPMLPbmmDkOJDfFgk1yNsp8qs=
+
+Name: res/drawable-ldpi-v4/ic_maps_indicator_current_position_anim2.pn
+ g
+SHA1-Digest: 0rmOkJNRxFNVELxKKJ9H6792z5c=
+
+Name: res/drawable-ldpi-v4/ic_maps_indicator_current_position_anim3.pn
+ g
+SHA1-Digest: EyElN4ia7qvQhKC8ImQFvbAbkUI=
+
+Name: res/drawable-ldpi-v4/ic_menu_camera.png
+SHA1-Digest: KC1gL7bgeZZOf4g6ACOEFx8tg18=
+
+Name: res/drawable-ldpi-v4/ic_menu_refresh.png
+SHA1-Digest: g6ASXOoA42U9eh65bgJLvQPnRAo=
+
+Name: res/drawable-mdpi-v4/corona_statusbar_icon_default.png
+SHA1-Digest: dz6FTJofVdnPC+MLrib3CCLdSvg=
+
+Name: res/drawable-mdpi-v4/ic_maps_indicator_current_position.png
+SHA1-Digest: 6i7cI2fisnQjPW3+GzNw48DGwM0=
+
+Name: res/drawable-mdpi-v4/ic_maps_indicator_current_position_anim1.pn
+ g
+SHA1-Digest: Xr/KCjFshSJVNuukfnWuZH+PhdY=
+
+Name: res/drawable-mdpi-v4/ic_maps_indicator_current_position_anim2.pn
+ g
+SHA1-Digest: FSuPU9A/G7f9+PsZXeRcQejPczs=
+
+Name: res/drawable-mdpi-v4/ic_maps_indicator_current_position_anim3.pn
+ g
+SHA1-Digest: jxQeE4mjcBF7jlvHJNz0bUnzSBQ=
+
+Name: res/drawable-mdpi-v4/ic_menu_camera.png
+SHA1-Digest: UGqdrwr6QDglgPuCXNeNBHVuVyU=
+
+Name: res/drawable-mdpi-v4/ic_menu_refresh.png
+SHA1-Digest: sbrojAwRZMLpTXEzBclc/w+kH+Q=
+
+Name: res/drawable-xhdpi-v4/banner.png
+SHA1-Digest: bj2zeikFveNG+mtTeGlpdYaqLGU=
+
+Name: res/drawable-xhdpi-v4/corona_statusbar_icon_default.png
+SHA1-Digest: LOVkE5AKIi+oirLiEkP1Csgb8Rc=
+
+Name: res/drawable-xhdpi-v4/ic_maps_indicator_current_position.png
+SHA1-Digest: 5oqaBvMMbnKrc/Mn/FYdLUbcC5w=
+
+Name: res/drawable-xhdpi-v4/ic_maps_indicator_current_position_anim1.p
+ ng
+SHA1-Digest: 8t3DirzlbpzvwUNKRly1uYr/B1w=
+
+Name: res/drawable-xhdpi-v4/ic_maps_indicator_current_position_anim2.p
+ ng
+SHA1-Digest: 0I9ooyYeqTD2WqeWbYcjfSMV4dw=
+
+Name: res/drawable-xhdpi-v4/ic_maps_indicator_current_position_anim3.p
+ ng
+SHA1-Digest: P7qyCo11OvCMab9Moo58ae8YaQc=
+
+Name: res/drawable-xhdpi-v4/ic_menu_camera.png
+SHA1-Digest: iMVUMuh0emNZNaKMaQd15RelAQk=
+
+Name: res/drawable-xhdpi-v4/ic_menu_refresh.png
+SHA1-Digest: EVtKhbEK/eaCSrIYCoRjM4TMF0A=
+
+Name: res/drawable-xxhdpi-v4/corona_statusbar_icon_default.png
+SHA1-Digest: Ld47srvd6R5mOSs0ET2dvgLjK7Y=
+
+Name: res/drawable-xxhdpi-v4/ic_maps_indicator_current_position.png
+SHA1-Digest: /6+LDgTheocGWOoeNtcOUVXCmRs=
+
+Name: res/drawable-xxhdpi-v4/ic_maps_indicator_current_position_anim1.
+ png
+SHA1-Digest: 8i9gJ6TgrCiOI0qh+jEDo69BTec=
+
+Name: res/drawable-xxhdpi-v4/ic_maps_indicator_current_position_anim2.
+ png
+SHA1-Digest: PlhXodW5c6rsavFFVQfHK4Wak0k=
+
+Name: res/drawable-xxhdpi-v4/ic_maps_indicator_current_position_anim3.
+ png
+SHA1-Digest: 12Kd/6/ancf8uIfQz+c1Dmlp3Vg=
+
+Name: res/drawable-xxhdpi-v4/ic_menu_camera.png
+SHA1-Digest: v5fauF8yE73BlLbC3EAsLwo7CB8=
+
+Name: res/drawable-xxhdpi-v4/ic_menu_refresh.png
+SHA1-Digest: m7tzBIcITWySwx8nHd95jiifyB0=
+
+Name: res/drawable/_corona_splash_screen.png
+SHA1-Digest: dPpory3FA2N7n0K+ADSZSkra8hQ=
+
+Name: res/mipmap-anydpi-v26/ic_launcher.xml
+SHA1-Digest: Ed/fdNiQVbcaNnSL7PwphfqC4sQ=
+
+Name: res/mipmap-hdpi-v4/ic_launcher.png
+SHA1-Digest: Vtk68+VghpbYUOVNtVjK/0ZGX94=
+
+Name: res/mipmap-hdpi-v4/ic_launcher_foreground.png
+SHA1-Digest: n5dbLZfrSsY4js6cNpTI+z2eISI=
+
+Name: res/mipmap-ldpi-v4/ic_launcher.png
+SHA1-Digest: gM88oxjiBYR45PdBTmPhsTjx7Xg=
+
+Name: res/mipmap-mdpi-v4/ic_launcher.png
+SHA1-Digest: DXr105C6hqzFJ462WSwbDfocEaw=
+
+Name: res/mipmap-mdpi-v4/ic_launcher_foreground.png
+SHA1-Digest: N7EEiIIDD2X6lBFdQ9SG/OTiLZ0=
+
+Name: res/mipmap-xhdpi-v4/ic_launcher.png
+SHA1-Digest: as8py+RJIq/ivizXrxoJ3av4Fk8=
+
+Name: res/mipmap-xhdpi-v4/ic_launcher_foreground.png
+SHA1-Digest: bljL/07L0aMy0O/ogG9PRVQueGI=
+
+Name: res/mipmap-xxhdpi-v4/ic_launcher.png
+SHA1-Digest: r3nwsJjinOg37QUofnttc3HIEqs=
+
+Name: res/mipmap-xxhdpi-v4/ic_launcher_foreground.png
+SHA1-Digest: 56Ox2Y5b+R9nlbwNyHDKmegese0=
+
+Name: res/mipmap-xxxhdpi-v4/ic_launcher.png
+SHA1-Digest: u99TQn22GzanKbTQSOzk1Y+IAoY=
+
+Name: res/mipmap-xxxhdpi-v4/ic_launcher_foreground.png
+SHA1-Digest: m9HoOdiJz/yowbhJiSYcmMPWKa4=
+
+Name: res/raw/corona_asset_widget_theme_android.png
+SHA1-Digest: hB+AKXWJcmutxqAywt0Tnm9EmLo=
+
+Name: res/raw/corona_asset_widget_theme_android_2x.png
+SHA1-Digest: LoB0+VGX7N9E8CL8ZvuT3haj9b8=
+
+Name: res/raw/corona_asset_widget_theme_android_holo_dark.png
+SHA1-Digest: YmG7OtlUQ3kCi2+ehh2r3HokD7U=
+
+Name: res/raw/corona_asset_widget_theme_android_holo_dark_2x.png
+SHA1-Digest: KWbXAb9HULOMGQev7xOP4v71rh4=
+
+Name: res/raw/corona_asset_widget_theme_android_holo_dark_4x.png
+SHA1-Digest: nYVzqy2GB6+huhg3afNx4eqE+sY=
+
+Name: res/raw/corona_asset_widget_theme_android_holo_light.png
+SHA1-Digest: amq+Pe+DUfCcWyjuPmlTGwHPCM4=
+
+Name: res/raw/corona_asset_widget_theme_android_holo_light_2x.png
+SHA1-Digest: lWviOYAgzfEbHDvv0C5omgDGYTQ=
+
+Name: res/raw/corona_asset_widget_theme_android_holo_light_4x.png
+SHA1-Digest: PJfSvG4OqUNE/26L0QOlGZjW3ws=
+
+Name: res/raw/corona_asset_widget_theme_ios.png
+SHA1-Digest: UFZbgvoYP38CLEVTBFyn6BN/og0=
+
+Name: res/raw/corona_asset_widget_theme_ios7.png
+SHA1-Digest: URm03cCC/w/OfP/mbmopLhCWFyU=
+
+Name: res/raw/corona_asset_widget_theme_ios7_2x.png
+SHA1-Digest: efftcUtHo86zbwipwesNMof08EE=
+
+Name: res/raw/corona_asset_widget_theme_ios7_4x.png
+SHA1-Digest: +O+revu9k1duJBvH2Xo4S8FW2Ow=
+
+Name: res/raw/corona_asset_widget_theme_ios_2x.png
+SHA1-Digest: nCpmjUuFyZl8rXLPgRAD9BTcOMs=
+
+Name: res/raw/corona_asset_widget_theme_onoff_mask.png
+SHA1-Digest: IFbTIWvKwA24mIHWhO0mdpBdLWc=
+
+Name: res/raw/corona_asset_widget_theme_onoff_mask_android_holo.png
+SHA1-Digest: cQP8BrjTLbzsksQGG7sFri8EmDM=
+
+Name: res/raw/corona_asset_widget_theme_pickerwheel_mask.png
+SHA1-Digest: uQs2PbD1x3/8j0VhdBL457K3vtY=
+
+Name: res/raw/corona_map_view2.html
+SHA1-Digest: 4Shf/t8F15+eln7ftwe83YFf+lc=
+
+Name: res/xml/network_security_config.xml
+SHA1-Digest: HtE0ew3HEeQhrDMP9zlflAt4d8w=
+
+Name: resources.arsc
+SHA1-Digest: suFLlM8Xnd7sC5N1ieU7+0abEk8=
+

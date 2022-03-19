@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+        <opening>
+                <tap type="script" x="200" y="350" width="500" height="200" color="w">때는 2080년 어느 날...</tap>
+                <tap type="script" x="200" y="450" width="1500" height="200" color="w">국내 최고 대학이라 불리는 '냥냥대학교' 신입생이 된 양갱.</tap>
+                <tap type="script" x="200" y="550" width="1500" height="200" color="w">즐겁게 학교 생활을 하던 중....</tap>
+                <tap type="image">content/cartoon/opening1.png</tap>
+                <tap type="Bold" x="200" y="350" width="1000" height="200">다들 이거 봤어요?</tap>
+                <tap type="script" x="200" y="430" width="1000" height="200">조금 충격적이네요...</tap>
+                <tap type="Bold" x="900" y="670" width="600" height="200">공 고 문</tap>
+                <tap type="Bold" x="300" y="950" width="1200" height="500">학교 내부 사정으로 기존 단과대학들을 통합합니다.
+
+변경 후: 인문사회정보융합약과학공연예술디자인문화지식미래인재융합휴먼어쩌고저쩌고대학</tap>
+                <tap type="Rect"/>
+                <tap type="script" x="200" y="350" width="1500" height="200" color="w">양갱은 충격적인 사실을 알게 된다!</tap>
+                <tap type="script" x="200" y="450" width="1500" height="200" color="w">'이.. 이럴 순 없어! 어떻게 하면 막을 수 있지?'</tap>
+                <tap type="script" x="200" y="550" width="1500" height="200" color="w">고민을 하며 지나가다가 우연히 붕어빵 집을 발견하게 된다.</tap>
+                <tap type="script" x="200" y="650" width="1500" height="200" color="w">"좋아. 붕어빵을 팔아서 돈을 벌자. 그래서 내가 이 학교를 구하는 거야!!"</tap>
+                <tap type="script" x="200" y="750" width="1500" height="200" color="w">과연 양갱이는 꿈을 이룰 수 있을 것인가...?</tap>
+                <tap type="end"/>
+                <tap/>
+        </opening>
+        <bedending x="50">
+                <tap type="image">content/cartoon/bed1.png</tap>
+                <tap type="script" x="530" y="280" width="200" height="200">인문사회정보융합약과학공연예술디자인문화지식미래인재융합휴먼어쩌고저쩌고대학</tap>
+                <tap type="image">content/cartoon/bed2.png</tap>
+                <tap type="script" x="1220" y="500" width="120" height="600">인문사회정보융합약과학공연예술디자인문화지식미래인재융합휴먼어쩌고저쩌고대학</tap>
+                <tap type="image">content/cartoon/bed3.png</tap>
+                <tap type="script" x="480" y="910" width="320" height="200">자기소개 부탁드립니다.</tap>
+                <tap type="script" x="650" y="730" width="320" height="200">면접번호 xxx번 냥냥대학교 인문사회 어쩌고 저쩌고...</tap>
+                <tap type="image">content/cartoon/bed4.png</tap>
+                <tap type="script" x="1020" y="980" width="200", height="200">아니, 자네 
+괜찮은가?</tap>
+                <tap type="script" x="1260" y="660" width="250", height="200">  세상에 
+단과대 이름만 3시간    얘기하고 쓰러졌어</tap>
+                <tap type="script" x="1320" y="990" width="180", height="200">여기 신고 좀 
+해주세요</tap>
+                <tap type="end"/>
+                <tap/>
+        </bedending>
+        <happy>
+                <tap type="image">content/cartoon/happy1.png</tap>
+                <tap type="script" x="210" y="380" width="500" height="200">다들 이거 봤어요?
+단대 통합 취소 됐나봐요!</tap>
+                <tap type="script" x="250" y="510" width="500" height="200">변경 예정되었던 것을 취소합니다.
+              사유: 총장 변경</tap>
+                <tap type="image">content/cartoon/happy2.png</tap>
+                <tap type="Bold" x="180" y="750" width="500" height="200">양갱-하다</tap>
+                <tap type="script" x="180" y="890" width="500" height="200" font="bold">1. 자주적이고 민주적이며 진취적이다.
+
+2. 귀엽다.</tap>
+                <tap type="image">content/cartoon/happy3.png</tap>
+                <tap type="script" x="1070" y="620" width="500" height="200" font="bold">에.. 감사합니다</tap>
+                <tap type="image">content/cartoon/happy4.png</tap>
+                <tap type="script" x="1350" y="780" width="400" height="200" font="bold">그렇게 학교에는 영웅 양갱을
+ 기념하는 동상이 세워졌다.</tap>
+                <tap type="end"/>
+                <tap/>
+        </happy>
+</root>
